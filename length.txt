@@ -1,0 +1,4 @@
+22.1.24_q2
+
+n=int(input())
+print(len(str(n)))

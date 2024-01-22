@@ -1,0 +1,4 @@
+22.1.24_q1
+
+n=int(input())
+print(str(n)[::-1])
