@@ -1,0 +1,7 @@
+23.1.24_q2
+
+# Complete the solve function below.
+def solve(s):
+    a=s.split(' ')
+    a1=(((i.capitalize() for i in a)))
+    return ' '.join(a1)
