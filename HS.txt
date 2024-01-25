@@ -1,0 +1,25 @@
+24.1.24_q1
+
+import math
+import os
+import random
+import re
+import sys
+
+#
+# Complete the 'handshake' function below.
+#
+# The function is expected to return an INTEGER.
+# The function accepts INTEGER n as parameter.
+#
+
+
+    
+
+   
+
+
+t = int(input().strip())
+for _ in range(t):
+    n = int(input().strip())
+    print(n * (n - 1) // 2)
